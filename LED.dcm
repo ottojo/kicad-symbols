@@ -276,6 +276,11 @@ K RGB LED NeoPixel Mini addressable
 F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
 $ENDCMP
 #
+$CMP SK6812_EC1515
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+$ENDCMP
+#
 $CMP SMLVN6RGB
 D High Brightness Tri-Color LED, RGB, 3.5x2.8mm
 K LED RGB Diode
